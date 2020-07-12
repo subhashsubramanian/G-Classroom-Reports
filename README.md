@@ -7,7 +7,7 @@ Open a Google Spreadsheet. Go to Tools > Script Editor > Copy the contents of cl
 
 File > Rename > Enter project name For e.g. G-Classroom Reports > OK
 
-File > New > Script file. Copy the contents of utility.gs and rename it to utility.gs 
+File > New > Script file. Copy the contents of utility.gs here and rename it to utility.gs 
 
 File > New > HTML File. Copy paste contents of sidebar.html here
 
