@@ -1,4 +1,5 @@
 # Google Classroom Reports
+Modified from My Class Rocks by vixci.rocks
 Allows to create aggregated views containing stats and charts from the classroom data. 
 These views are useful to get an overview at a glance of  the teacher’s courses, course work, grades and aggregated stats. Most of these stats and charts are not surfaced in the Classroom UI, so they can add value for teachers who are tracking these metrics.
 
