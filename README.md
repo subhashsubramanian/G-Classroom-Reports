@@ -3,17 +3,17 @@ Allows to create aggregated views containing stats and charts from the classroom
 These views are useful to get an overview at a glance of  the teacher’s courses, course work, grades and aggregated stats. Most of these stats and charts are not surfaced in the Classroom UI, so they can add value for teachers who are tracking these metrics.
 
 ## How to use
-Open a Google Spreadsheet. Go to Tools > Script Editor > Copy the contents of classroom.gs in this script file by replacing any existing content. Rename it to classroom.gs
+1. Open a Google Spreadsheet. Go to Tools > Script Editor > Copy the contents of classroom.gs in this script file by replacing any existing content. Rename it to classroom.gs
 
-File > Rename > Enter project name For e.g. G-Classroom Reports > OK
+2. File > Rename > Enter project name For e.g. G-Classroom Reports > OK
 
-File > New > Script file. Copy the contents of utility.gs here and rename it to utility.gs 
+3. File > New > Script file. Copy the contents of utility.gs here and rename it to utility.gs 
 
-File > New > HTML File. Copy paste contents of sidebar.html here
+4. File > New > HTML File. Copy paste contents of sidebar.html here
 
-Resources > Advanced Google Services > Turn on Google Classroom API
+5. Resources > Advanced Google Services > Turn on Google Classroom API
 
-You'll then find it under Add-Ons
+6. Go back to the Google Spreadsheet, You'll then find the Project under Add-Ons. Click Start to see the sidebar. You can then click any of the two buttons.
 
 The add-on has the following main functions:
 ## Generation of course level aggregated stats. 
